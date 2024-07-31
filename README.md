@@ -22,7 +22,7 @@ The dataset contains transactions from a UK-based online retail company from Dec
 ## How to Run the Code
 1. Clone the repository.
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/yourusername/yourrepository.git   ( https://github.com/HarshaBojanki3/Customer-Segmentation-Project )
     ```
 2. Navigate to the project directory.
     ```bash
